@@ -1,3 +1,18 @@
 body{
-  background-color: cadetblue;
+  background-color: rgb(132, 139, 68);
+}
+
+.header{
+  border-bottom: 5px black solid;
+  box-shadow: 2px 2px 5px black;
+  text-shadow: 2px 2px 5px black;
+}
+.entry{
+  border: 2px black solid;
+  box-shadow: 2px 2px 5px black;
+  background-color: rgb(207, 206, 209);
+}
+
+.entryNum{
+  text-shadow: 2px 2px 5px black;
 }
