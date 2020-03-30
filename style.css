@@ -1,5 +1,7 @@
 body{
-  background-color: rgb(132, 139, 68);
+  background-image: url(https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/botanical-black-and-white-patterns-carol-groenen.jpg);
+  background-size: cover;
+
 }
 
 .header{
@@ -7,12 +9,32 @@ body{
   box-shadow: 2px 2px 5px black;
   text-shadow: 2px 2px 5px black;
 }
+.headertext{
+  margin-left: 200px;
+}
+.headerphoto{
+margin-left: 300px;
+}
+.img1{
+  background-image: url(https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/90594039_10221921232284474_4789386996059471872_o.jpg?_nc_cat=103&_nc_sid=8024bb&_nc_ohc=3cafdhRQJmAAX8KlvXb&_nc_ht=scontent-sea1-1.xx&oh=921121048231cd969ad448425d0a732f&oe=5EA80CF3);
+background-size: cover;
+border-radius: 50%;
+height: 51vh;
+width: 24vw;
+border: 5px solid black;
+box-shadow: 2px 2px 5px rgb(248, 212, 9);
+z-index: 1;
+position: fixed;
+
+}
 .entry{
-  border: 2px black solid;
+  border: 3px black solid;
   box-shadow: 2px 2px 5px black;
   background-color: rgb(207, 206, 209);
+  
 }
 
 .entryNum{
   text-shadow: 2px 2px 5px black;
+
 }
